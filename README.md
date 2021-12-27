@@ -4,7 +4,7 @@ An intruder detection system implementated in python uding opencv.
 
 
 ## Resources/References 
-Video Codecs:[](https://www.fourcc.org/codecs.php)
+Video Codecs:[https://www.fourcc.org/codecs.php](https://www.fourcc.org/codecs.php)
 
 [HaarCascades Models](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
