@@ -4,5 +4,6 @@ An intruder detection system created by using opencv module for an ease of imple
 
 
 ## Resources/References 
-[Video Codecs by FOURCC](https://www.fourcc.org/codecs.php)
+[Video Codecs](https://www.fourcc.org/codecs.php)
+
 [Haarcascades Models](https://github.com/opencv/opencv/tree/master/data/haarcascades)
